@@ -1,0 +1,174 @@
+html{ margin: 0;
+    min-height: 100%;
+ 
+ }
+ 
+ body{
+    margin: 0;
+ }
+ 
+ .Header{
+    background-color: #1f324d;
+    padding-bottom: 100px;
+ }
+ 
+ .htl{
+    color: #f4f7f1;
+    display: flex;
+    justify-content: space-between;
+    margin:20px;
+ 
+ }
+  .li{display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 50px;
+  }
+ 
+ .opening{
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+ }
+  .well{
+    margin: 20px;
+    text-align: justify
+   
+  }
+ 
+  .image{
+ display: flex;
+ padding: 0;
+ align-items:center; 
+ width: 400px;
+ 
+  }
+ 
+  #well{
+    margin: 0;
+    font-weight: bold;
+  }
+  #on{
+    margin: 0;
+    font-weight: bold;
+ 
+  }
+ 
+ a{
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+ 
+ }
+  .Information{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px;
+    text-align: center;
+    background-color: #3882f6;
+  }
+ 
+  img{
+    height: 200px;
+    width: 100%;
+    border-radius: 20px;
+  }
+ 
+ 
+ 
+  
+  button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 10px;
+    padding:0 15px;
+   }
+ 
+   #button{
+    border-color: #3882f6;
+   }
+ 
+   #button_2{ 
+    border-color: #f9faf8;
+   }
+ 
+   
+   h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+   }
+ 
+    h2{
+       font-size: 36px;
+       font-weight: bold;
+       color: #1F2937;
+       display: flex;
+       align-items: center;
+       justify-content: center;
+       padding: 0;
+       margin: 20px;
+    }
+ 
+   .Quote{
+    background-color: #e5e7eb;
+    display: flex;
+    padding: 100px;
+    font-style:italic;
+    font-size: 26px;
+   }
+ 
+   .name{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+   }
+ 
+   .Action{
+    background-color: #3882f6;
+    margin: 100px;
+    color: #e5e7eb;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+   }
+ 
+   .button{
+    display: flex;
+    padding: 20px;
+   }
+ 
+ #call{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    font-weight: bolder;
+ }
+ #sign{
+    margin-top: 0px;
+    padding-top: 0px;
+   
+ }
+ 
+   .Footer{
+    background-color: #1F2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 10px;
+   }
+ 
+   .one{
+    margin-right:50px ;
+   }
+   
+   .two{
+    margin-right: 50px;
+   }
+    .three{
+       margin-right: 50px;
+    }
+ 
+    
